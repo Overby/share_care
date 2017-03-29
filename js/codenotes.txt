@@ -1,0 +1,16 @@
+#this file will be an attempt at putting down the essence of the Natch Notes
+#project, so that I can recruit others and refine the ideas underlying what
+#I hope to be its usefulness.
+
+#Natch is meant to cover truly necessary things--things people need, naturally.
+
+Blue Aloe:
+
+468CB0
+HEX
+
+70,140,176
+RGB
+
+Font: Neutra (https://www.fontyukle.net)
+ Other font: Serifa (and its variations--same website)
